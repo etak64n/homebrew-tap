@@ -1,10 +1,10 @@
 class Calx < Formula
   desc "Native macOS Calendar CLI built on EventKit"
   homepage "https://github.com/etak64n/calx"
-  url "https://github.com/etak64n/calx/releases/download/v0.2.0/calx-v0.2.0-macos-universal.tar.gz"
-  sha256 "02ec61c3972dba67a82b9b8639669952923889b6b888de7d34ebe722e3d1072b"
+  url "https://github.com/etak64n/calx/releases/download/v0.4.0/calx-v0.4.0-macos-universal.tar.gz"
+  sha256 "ed7fdb5431b21ca82d21b5cc113120a1ee11171abff66f954c15390593dc4510"
   license "MIT"
-  version "0.2.0"
+  version "0.4.0"
 
   depends_on :macos
 
